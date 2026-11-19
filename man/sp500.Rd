@@ -6,7 +6,7 @@
  The \code{sp500} datafile contains a year's worth of close-of-day data for most of the Standard and Poors 500 stocks. The data is in reverse chronological order, 
  with the top row being Dec 31st, 2008.
 }
-\usage{sp500}
+\usage{data(sp500)}
 \format{
   This data file contains the following items:
   \describe{
